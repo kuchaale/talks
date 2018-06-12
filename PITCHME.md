@@ -1,4 +1,4 @@
-### Talks by @alexamici
+### Talks by @kuchaale
 
- * 2017
-   * [A common data model approach to NetCDF and GRIB data harmonisation](https://gitpitch.com/alexamici/talks/master?p=Py4ESS)
+ * 2018
+   * [Role of parametrized orographic gravity waves in the lower stratosphere](https://gitpitch.com/kuchaale/talks/master?p=CMAM)
