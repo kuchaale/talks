@@ -1,5 +1,4 @@
-background: assets/moje_bg.png
-background-size: contain
+logo : assets/logo.png
 theme-override: assets/Py4ESS.css
 published: true
 theme: sky
