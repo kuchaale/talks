@@ -13,15 +13,19 @@ Ales Kuchar, Deparment of Atmosperic Physics, MFF CUNI, Prague
 
 ### Take aways
 
-* disscuss importance of oGWs (hotspots) in the stratopshere and lower mesosphere
-  * particularly focused on the lower stratosphere  
-  * using compensation theory by Cohen et al. (2014)
-* Himalayas hotspot links to SSW and its dynamical mechanism
-* does meridional position of GW forcing matter? verification by MUAM?
+@ul
+
+- disscuss importance of oGWs (hotspots) in the stratopshere and lower mesosphere
+  - particularly focused on the lower stratosphere  
+  - using compensation theory by Cohen et al. (2014)
+- Himalayas hotspot links to SSW and its dynamical mechanism
+- does meridional position of GW forcing matter? verification by MUAM?
+
+@ulend
 
 
 
-------
+---
 
 ### Motivation: importance of oGWs in LS
 
@@ -72,7 +76,7 @@ Ales Kuchar, Deparment of Atmosperic Physics, MFF CUNI, Prague
 
 +++
 
-### Results: oGWD
+### Results: oGWD within hotspot
 
 ![Image](assets/ogw_lag_profile.png)
 
@@ -93,7 +97,7 @@ Ales Kuchar, Deparment of Atmosperic Physics, MFF CUNI, Prague
 
 ### Localized response in zonal wind and LWA
 
-? localized compensation mechanism between oGWs and resolved waves (~LWA)
+<span class='small'>? localized compensation mechanism between oGWs and resolved waves (~LWA) </span>
 
 ![Image](assets/uLWA.png)
 
@@ -117,7 +121,6 @@ Ales Kuchar, Deparment of Atmosperic Physics, MFF CUNI, Prague
 
 ### Hypothesis: links to SSW
 
----
 
 * position of imposed drag by oGWs may be critical for nonlocal interaction with PWs
   * ~compensation mechanism suggested by Cohen et al. (2014)
@@ -138,7 +141,7 @@ Ales Kuchar, Deparment of Atmosperic Physics, MFF CUNI, Prague
 
 ### Conclusions
 
- * common features between Himalayas composite with SSW found
+* common features between Himalayas composite with SSW found
     * warming and ozone enrichment in polar (lower) stratosphere)
     * weaker PV => enhanced upward propagation of PW 
     * stronger wave-drive residual circulation
