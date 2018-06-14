@@ -2,7 +2,7 @@
 ### Role of parametrized orographic gravity waves in the lower stratosphere
 
 
-Ales Kuchar, Deparment of Atmosperic Physics, MFF CUNI, Prague
+Ales Kuchar, Department of Atmosperic Physics, MFF CUNI, Prague
 
 
 <span class='small'>
