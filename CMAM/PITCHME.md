@@ -19,7 +19,7 @@ Ales Kuchar, Deparment of Atmosperic Physics, MFF CUNI, Prague
   - particularly focused on the lower stratosphere  
   - using compensation theory by Cohen et al. (2014)
 - Himalayas hotspot links to SSW and its dynamical mechanism
-- does meridional position of GW forcing matter? verification by MUAM?
+- does (meridional) position of GW forcing matter? verification by MUAM?
 
 @ulend
 
@@ -43,8 +43,8 @@ Ales Kuchar, Deparment of Atmosperic Physics, MFF CUNI, Prague
 
 ### Methodology: peak detection
 
-* 20 and 30 separation => negligible differences
-* composite averages based on 45 events for [Himalayas](http://meop40.troja.mff.cuni.cz:11180/ales/accelogw_himalayas_hotspot@70hPa.html) 74 events for [East Asia](http://meop40.troja.mff.cuni.cz:11180/ales/accelogw_eastasia_hotspot@70hPa.html) and 36 events for [West America](http://meop40.troja.mff.cuni.cz:11180/ales/accelogw_westamer_hotspot@70hPa.html)
+* 20 and 30-day separation => negligible differences
+* composite averages based on 45 events for [Himalayas](http://meop40.troja.mff.cuni.cz:11180/ales/accelogw_himalayas_hotspot@70hPa.html), 74 events for [East Asia](http://meop40.troja.mff.cuni.cz:11180/ales/accelogw_eastasia_hotspot@70hPa.html) and 36 events for [West America](http://meop40.troja.mff.cuni.cz:11180/ales/accelogw_westamer_hotspot@70hPa.html)
 * lagged analysis of composites up to 10 days (for preceding and following) 
 * discussion of dynamical effects in 3D, i.e. not only using zonal mean
 
