@@ -142,7 +142,7 @@ Ales Kuchar, Department of Atmosperic Physics, MFF CUNI, Prague
 ### Conclusions
 
 * common features between Himalayas composite with SSW found
-    * warming and ozone enrichment in polar (lower) stratosphere)
+    * warming and ozone enrichment in polar (lower) stratosphere
     * weaker PV => enhanced upward propagation of PW 
     * stronger wave-drive residual circulation
     * Siberian-high strengthening (Cohen and Jones, 2011) associated with upward PW propagation
