@@ -17,5 +17,4 @@ supervised by doc. RNDr. Petr Pišoft, Ph.D.
 ---?image=assets/gray2010_topdown.png&transition=none&size=auto 50%
 ---?image=assets/gray2010.png&transition=none&size=auto 50%
 
-
----
+### SAdasd
