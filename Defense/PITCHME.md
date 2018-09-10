@@ -12,8 +12,9 @@ supervised by doc. RNDr. Petr Pišoft, Ph.D.
 ---
 
 #### Coupling processes
----?image=assets/gray2010_layers.png&transition=none&size=auto 80%
----?image=assets/gray2010_topdown.png&transition=none&size=auto 80%
----?image=assets/gray2010.png&transition=none&size=auto 80%
+---?image=assets/gray2010_layers.png&transition=none&size=auto 90%
+---?image=assets/gray2010_topdown.png&transition=none&size=auto 90%
+---?image=assets/gray2010.png&transition=none&size=auto 90%
 
-#### SAdasd
+#### Coupling processes
+---?image=assets/gray2010.png&size=auto 90%
