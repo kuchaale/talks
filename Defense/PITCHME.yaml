@@ -1,0 +1,7 @@
+theme : sky
+
+theme-override : assets/css/PITCHME.css
+
+layout : top
+
+transition : none
