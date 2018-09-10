@@ -11,10 +11,11 @@ supervised by doc. RNDr. Petr Pišoft, Ph.D.
 
 ---
 
-#### Coupling processes
+### Coupling processes
 ---?image=assets/gray2010_layers.png&transition=none&size=auto 90%
 ---?image=assets/gray2010_topdown.png&transition=none&size=auto 90%
 ---?image=assets/gray2010.png&transition=none&size=auto 90%
 
+---
 #### Coupling processes
 ---?image=assets/gray2010.png&size=auto 90%
