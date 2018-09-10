@@ -10,10 +10,20 @@ supervised by doc. RNDr. Petr Pišoft, Ph.D.
 </span>
 
 
+---
+@snap[north]
+The Process
+@snapend
+
 
 ---?image=assets/gray2010_layers.png&transition=none&size=auto 80%
 ---?image=assets/gray2010_topdown.png&transition=none&size=auto 80%
 ---?image=assets/gray2010.png&size=auto 80%
 
+
+---
 #### Coupling processes
+
+
+
 
