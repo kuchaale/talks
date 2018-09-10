@@ -10,3 +10,12 @@ supervised by doc. RNDr. Petr Pišoft, Ph.D.
 </span>
 
 ---
+
+### Coupling processes
+
+---?image=assets/gray2010_layers.png&transition=none
+---?image=assets/gray2010_topdown.png&transition=none
+---?image=assets/gray2010.png&transition=none
+
+
+---
