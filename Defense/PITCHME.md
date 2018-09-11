@@ -30,9 +30,10 @@
 
 ---
 #### The 11-year solar cycle in current reanalyses: a (non)linear attribution study of the middle atmosphere
-![ACP cover](assets/acp_chap1.jpg)
+![ACP cover](assets/acp_chap1.png)
 ---
 #### On the aliasing of the solar cycle in the lower-stratospheric tropical temperature
+![ACP cover](assets/jgr_chap1.png)
 
 ---
 #### Role of parametrized orographic gravity waves in the lower stratosphere
