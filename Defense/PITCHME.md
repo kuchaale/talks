@@ -4,6 +4,10 @@
 **Mgr. Aleš Kuchař** 
 <br>supervised by doc. RNDr. Petr Pišoft, Ph.D.
 
+@snap[east]
+![KFA](assets/logotyp_fakulty_moje.png)
+@snapend
+
 
 @size[small](2018-09-17)
 
@@ -16,7 +20,7 @@
 - adoption of open-science
 @ulend
 +++
-#### Thesis targets:
+#### Thesis targets
 @ul
 - (non)linear assessment of 11-yr SC in the middle atmosphere
 - aliasing of 11-yr SC in the tropical lower stratosphere (TLS)
@@ -33,10 +37,11 @@
 ![ACP cover](assets/acp_chap1.png)
 ---
 #### On the aliasing of the solar cycle in the lower-stratospheric tropical temperature
-![ACP cover](assets/jgr_chap2.png)
+![JGR cover](assets/jgr_chap2.png)
 
 ---
 #### Role of parametrized orographic gravity waves in the lower stratosphere
+![No cover](assets/motivation_fig2.png)
 
 
 
