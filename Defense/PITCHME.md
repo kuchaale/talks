@@ -33,7 +33,7 @@
 ![ACP cover](assets/acp_chap1.png)
 ---
 #### On the aliasing of the solar cycle in the lower-stratospheric tropical temperature
-![ACP cover](assets/jgr_chap1.png)
+![ACP cover](assets/jgr_chap2.png)
 
 ---
 #### Role of parametrized orographic gravity waves in the lower stratosphere
