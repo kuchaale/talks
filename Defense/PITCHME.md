@@ -4,11 +4,6 @@
 **Mgr. Aleš Kuchař** 
 <br>supervised by doc. RNDr. Petr Pišoft, Ph.D.
 
-@snap[east]
-![KFA](assets/logotyp_fakulty_moje.png)
-@snapend
-
-
 @size[small](2018-09-17)
 
 
@@ -41,7 +36,14 @@
 
 ---
 #### Role of parametrized orographic gravity waves in the lower stratosphere
-![No cover](assets/motivation_fig2.png)
+![No cover](assets/motivation_fig.png)
+
+---
+#### Thesis conclusions
+
+@ul
+-
+@ulend
 
 
 
