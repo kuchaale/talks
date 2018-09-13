@@ -2,7 +2,7 @@
 ### Coupling processes of various timescales in the middle atmosphere
 <br><br>
 **Mgr. Aleš Kuchař** 
-<br>supervised by doc. RNDr. Petr Pišoft, Ph.D.
+<br>@size[medium](supervised by doc. RNDr. Petr Pišoft, Ph.D.)
 
 @size[small](2018-09-17)
 
@@ -11,7 +11,9 @@
 #### Thesis highlights
 @ul
 - attribution of top-down and bottom-up coupling processes of various timescales in the middle atmosphere
-- timescales tackled: decadal: 11-yr solar cycle (SC),  and intraseasonal: orographic gravity waves (oGWs)
+- timescales tackled: 
+  - **decadal:** 11-yr solar cycle (SC)
+  - **intraseasonal:** orographic gravity waves (oGWs)
 - adoption of open-science
 @ulend
 
