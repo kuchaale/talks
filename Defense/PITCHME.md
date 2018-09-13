@@ -43,7 +43,9 @@
 #### Attribution of SC using multiple techniques
 @div[left-50]
 <br>
-![ACP cover](assets/nnet_fig.png)
+- multiple linear regression (MLR)
+- support vector regression (SVR)
+- multiple layer perceptron (MLP)
 @divend
 
 @div[right-50]
@@ -68,7 +70,7 @@ Relative impact (MLR)
 @divend
 
 @div[right-50 fragment]
-Regression coefficients (MLR)
+Regression coefficients
 ![coefs](assets/te_merra_coefs.png)
 @divend
 
@@ -81,10 +83,9 @@ Regression coefficients (MLR)
 
 @div[right-50]
 @ul
-- Present
-- Your
-- Ideas
-- Step-by-step
+- results by MLR confirmed by the nonlinear approaches (MLP, SVR)
+- SVR and MLP required rigorous cross-validation (~computing time)
+- MLP&SVR explains more variance of MA time-series
 @ulend
 @divend
 
