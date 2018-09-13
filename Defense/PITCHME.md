@@ -66,12 +66,12 @@ where `$I_{k} = \sigma (\hat{y}-\hat{y_{k}})$`
 
 @div[left-50]
 <br><br>
-![MONKEY](assets/te_merra_relimpact_mlr.png)
+---?image=assets/te_merra_relimpact_mlr.png&size=90% auto
 @divend
 
 @div[right-50]
 <br><br>
-![MONKEY](assets/te_merra_coefs.png)
+---?image=assets/te_merra_coefs.png&size=90% auto
 @divend
 
 
