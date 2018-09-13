@@ -5,3 +5,6 @@ layout : center-left
 transition : none
 
 mathjax : TeX-AMS_HTML-full
+
+footnote : "2018-09-17"
+
