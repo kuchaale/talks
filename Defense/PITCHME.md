@@ -91,8 +91,8 @@ Regression coefficients
 @ulend
 @divend
 
-+++ 
----?image=assets/teue_merra_coefs_monthly.png&size=90% auto
+
+---?image=assets/teue_merra_coefs_monthly.png&size=auto 50%&position=bottom
 
 ### Monthly response
 #### Revision of mechanism proposed by Kodera & Kuroda (2002)
@@ -106,7 +106,6 @@ Regression coefficients
 @divend
 
 @div[right-55 fragment]
-<br>
 `\begin{align}
 \bar{u}_t&-f\bar{v}^{*} \\
 &= \\
