@@ -38,6 +38,22 @@
 ---
 #### The 11-year solar cycle in current reanalyses: a (non)linear attribution study of the middle atmosphere
 ![ACP cover](assets/nnet_fig.png)
+
++++
+#### Attribution of SC using multiple techniques
+@div[left-50]
+<br><br>
+![ACP cover](assets/nnet_fig.png)
+@divend
+
+@div[right-50]
+$$RI = \frac{I_k}{\sum I_k}$$ where $$I_k = \sigma(\hat{y}-\hat{y_k})$$
+@divend
+
++++
+#### Relative impact of SC in strat. temperature (MERRA)
+![te_RI](assets/te_merra_relimpact_all_final.png)
+
 ---
 #### On the aliasing of the solar cycle in the lower-stratospheric tropical temperature
 ![JGR cover](assets/aliasing.png)
