@@ -48,8 +48,8 @@
 
 @div[right-50]
 <br>
-$$RI = \frac{I_k}{\sum I_k}$$ 
-where \[I_{k} = \sigma (\hat{y}-\hat{y_{k}})\]
+`$$RI = \frac{I_k}{\sum I_k}$$` 
+where `\[I_{k} = \sigma (\hat{y}-\hat{y_{k}})\]`
 @divend
 
 +++
