@@ -42,14 +42,14 @@
 +++
 #### Attribution of SC using multiple techniques
 @div[left-50]
-<br>
+@ul
 - multiple linear regression (MLR)
 - support vector regression (SVR)
 - multiple layer perceptron (MLP)
+@ulend
 @divend
 
 @div[right-50]
-<br>
 `$$RI = \frac{I_k}{\sum I_k}$$` 
 where `$I_{k} = \sigma (\hat{y}-\hat{y_{k}})$`
 @divend
