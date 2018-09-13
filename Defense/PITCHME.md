@@ -2,7 +2,7 @@
 ### Coupling processes of various timescales in the middle atmosphere
 <br><br>
 **Mgr. Aleš Kuchař** 
-<br>@size[medium](supervised by doc. RNDr. Petr Pišoft, Ph.D.)
+<br>@size[large](supervised by doc. RNDr. Petr Pišoft, Ph.D.)
 
 @size[small](2018-09-17)
 
