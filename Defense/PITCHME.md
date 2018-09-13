@@ -100,15 +100,15 @@ Regression coefficients
 ### Monthly response
 #### Elliassen-palm flux diagnostics
 
-@div[left-40]
+@div[left-55]
 ![RI](assets/epfd_monthly.png)
 @divend
 
-@div[right-60 fragment]
+@div[right-50 fragment]
 `\begin{align}
 \bar{u}_t&-f\bar{v}^{*} \\
 &= \\
-(a \cos\varphi)^{-1} \nabla \cdot \vec{F} & + R 
+(a \cos\varphi)^{-1} \nabla &\cdot \vec{F}  + R 
 \end{align}`
 @divend
 
