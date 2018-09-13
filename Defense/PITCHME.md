@@ -62,7 +62,7 @@ where `$I_{k} = \sigma (\hat{y}-\hat{y_{k}})$`
 ---?image=assets/te_merra_relimpact_all_final2.png&size=90% auto
 
 @snap[north-west]
-@size[1.12em](Relative impact of SC in strat. temperature (MERRA))
+@css[headline1](Relative impact of SC in strat. temperature (MERRA))
 @snapend
 
 +++
@@ -91,14 +91,12 @@ Regression coefficients
 @ulend
 @divend
 
-@layout[top-left]
+
 ---?image=assets/teue_merra_coefs_monthly.png&size=auto 60%
-### Monthly response
-#### Revision of mechanism proposed by Kodera & Kuroda (2002)
 @snap[north-west]
-@css[headline](Monthly response)
+@css[headline1](Monthly response)
 <br>
-@css[headline](Revision of mechanism proposed by Kodera & Kuroda (2002))
+@css[headline2](Revision of mechanism by Kodera & Kuroda (2002))
 @snapend
 
 
