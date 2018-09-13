@@ -1,3 +1,8 @@
 .brighten {
   color: white;
 }
+
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+}
