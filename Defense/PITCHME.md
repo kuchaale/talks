@@ -47,12 +47,13 @@
 @divend
 
 @div[right-50]
-$$RI = \frac{I_k}{\sum I_k}$$ where $$I_k = \sigma(\hat{y}-\hat{y_k})$$
+$$RI = \frac{I_k}{\sum I_k}$$ 
+where (\I_k = \sigma(\hat{y}-\hat{y_k})\)
 @divend
 
 +++
 #### Relative impact of SC in strat. temperature (MERRA)
-![te_RI](assets/te_merra_relimpact_all_final.png)
+---?image=assets/te_merra_relimpact_all_final.png&size=auto 80%&position=bottom
 
 ---
 #### On the aliasing of the solar cycle in the lower-stratospheric tropical temperature
