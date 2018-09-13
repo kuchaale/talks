@@ -41,6 +41,7 @@
 
 +++
 #### Attribution of SC using multiple techniques
+<br>
 @div[left-50]
 @ul
 - multiple linear regression (MLR)
@@ -75,17 +76,16 @@ Regression coefficients
 @divend
 
 +++
-#### asdasda
+#### Summary of (non)linear attribution
 @div[left-50 fragment]
-
 ![RI](assets/te_merra_relimpact_mlr2.png)
 @divend
 
 @div[right-50]
 @ul
 - results by MLR confirmed by the nonlinear approaches (MLP, SVR)
-- SVR and MLP required rigorous cross-validation (~computing time)
-- MLP&SVR explains more variance of MA time-series
+- SVR & MLP required rigorous cross-validation (~computing time)
+- MLP & SVR explains more variance of MA time-series
 @ulend
 @divend
 
