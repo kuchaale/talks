@@ -114,12 +114,17 @@ Regression coefficients
 @divend
 
 +++
+### Monthly response
+@div[left-40]
+![RI](assets/epfd_monthly.png)
+@divend
+@div[right-60 fragment]
 @ul
 - enhanced downwelling in polar latitudes and enhanced upwelling in the equatorial region
 - possible aliasing with internal variability (SSWs) or volcanic signal
-- not reproduced by GCMs models (Schmidt et al., 2010; Mitchell et al., 2015b) or CCMs (Maycock et al, 2018; ACP)
+- not reproduced by GCMs (Schmidt et al., 2010; Mitchell et al., 2015b) or CCMs (Maycock et al, 2018)
 @ulend
-
+@divend
 
 
 
