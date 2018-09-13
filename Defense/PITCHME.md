@@ -95,7 +95,7 @@ Regression coefficients
 +++
 ### Monthly response
 ##### Revision of mechanism by Kodera & Kuroda (2002)
-![](assets/teue_merra_coefs_monthly.png&size=auto 60%)
+![](assets/teue_merra_coefs_monthly.png)
 
 
 +++
