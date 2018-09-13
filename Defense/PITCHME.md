@@ -94,9 +94,9 @@ Regression coefficients
 
 ---?image=assets/teue_merra_coefs_monthly.png&size=auto 60%
 @snap[north-west]
-@css[headline1](Monthly response)
+### Monthly response
 <br>
-@css[headline2](Revision of mechanism by Kodera & Kuroda (2002))
+#### Revision of mechanism by Kodera & Kuroda (2002)
 @snapend
 
 
