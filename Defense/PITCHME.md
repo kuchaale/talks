@@ -62,15 +62,13 @@ where `$I_{k} = \sigma (\hat{y}-\hat{y_{k}})$`
 
 +++
 
-#### RI vs. regression coefficient
-
 @div[left-50 fragment]
-
+Relative impact (MLR)
 ![RI](assets/te_merra_relimpact_mlr2.png)
 @divend
 
 @div[right-50 fragment]
-
+Regression coefficients (MLR)
 ![coefs](assets/te_merra_coefs.png)
 @divend
 
