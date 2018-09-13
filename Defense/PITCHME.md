@@ -49,7 +49,8 @@
 @div[right-50]
 <br>
 $$RI = \frac{I_k}{\sum I_k}$$ 
-where \(I_k = \sigma(\hat{y}-\hat{y_k})\)
+<br>
+where $$I_{k} = \sigma (\hat{y}-\hat{y_{k}})$$
 @divend
 
 +++
