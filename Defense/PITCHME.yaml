@@ -1,6 +1,6 @@
 theme-override : assets/css/PITCHME.css
 
-layout : center-left
+layout : top-left
 
 transition : none
 
