@@ -4,7 +4,7 @@ layout : center-left
 
 transition : none
 
-mathjax : TeX-AMS_HTML-full
+mathjax : TeX-MML-AM_HTMLorMML-full
 
 footnote : "2018-09-17"
 
