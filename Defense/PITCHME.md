@@ -92,7 +92,7 @@ Regression coefficients
 @divend
 
 
----?image=assets/teue_merra_coefs_monthly.png&size=auto 50%&position=bottom
+---?image=assets/teue_merra_coefs_monthly.png&size=auto 70%&position=bottom
 
 ### Monthly response
 #### Revision of mechanism proposed by Kodera & Kuroda (2002)
@@ -101,11 +101,11 @@ Regression coefficients
 ### Monthly response
 #### Elliassen-palm flux diagnostics
 
-@div[left-45]
+@div[left-40]
 ![RI](assets/epfd_monthly.png)
 @divend
 
-@div[right-55 fragment]
+@div[right-60 fragment]
 `\begin{align}
 \bar{u}_t&-f\bar{v}^{*} \\
 &= \\
