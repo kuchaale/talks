@@ -92,9 +92,11 @@ Regression coefficients
 @divend
 
 
----?image=assets/teue_merra_coefs_monthly.png&size=auto 60%&position=bottom
-### Monthly response
-#### Revision of mechanism proposed by Kodera & Kuroda (2002)
+---?image=assets/teue_merra_coefs_monthly.png&size=auto 60%
+@snap[north-west]
+@size[1.17em](Monthly response)
+@size[1.12em](Revision of mechanism proposed by Kodera & Kuroda (2002))
+@snapend
 
 +++
 ### Monthly response
