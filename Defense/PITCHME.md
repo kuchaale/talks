@@ -64,14 +64,30 @@ where `$I_{k} = \sigma (\hat{y}-\hat{y_{k}})$`
 
 #### RI vs. regression coefficient
 
-@div[left-50]
-<br><br>
+@div[left-50 fragment]
+
+![RI](assets/te_merra_relimpact_mlr2.png)
+@divend
+
+@div[right-50 fragment]
+
+![coefs](assets/te_merra_coefs.png)
+@divend
+
++++
+
+@div[left-50 fragment]
+
 ![RI](assets/te_merra_relimpact_mlr2.png)
 @divend
 
 @div[right-50]
-<br><br>
-![coefs](assets/te_merra_coefs.png)
+@ul[brighten]
+- Present
+- Your
+- Ideas
+- Step-by-step
+@ulend
 @divend
 
 
