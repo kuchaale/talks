@@ -105,7 +105,7 @@ Regression coefficients
 @divend
 
 @div[right-50]
-`$$\bar{u_t}-f\bar{v}^{*} = (a \cos\varphi)^{-1} \nabbla \cdot \vec{F} + R $$`
+`$$\bar{u}_t-f\bar{v}^{*} = (a \cos\varphi)^{-1} \nabla \cdot \vec{F} + R $$`
 @divend
 
 
