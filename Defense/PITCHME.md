@@ -91,6 +91,23 @@ Regression coefficients
 @ulend
 @divend
 
++++ 
+### Monthly response
+#### Revision of mechanism proposed by Kodera & Kuroda (2002)
+![MR_fig](assets/teue_merra_coefs_monthly.png)
+
++++
+### Monthly response
+#### Elliassen-palm flux diagnostics
+
+@div[left-50 fragment]
+![RI](assets/epfd_monthly.png)
+@divend
+
+@div[right-50]
+`$$\bar{u_t}-f\bar{v}^{*} = (a \cos\varphi)^{-1} \nabbla \cdot \vec{F} + R $$`
+@divend
+
 
 
 
