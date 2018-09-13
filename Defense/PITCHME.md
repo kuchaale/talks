@@ -100,7 +100,7 @@ Regression coefficients
 ### Monthly response
 #### Elliassen-palm flux diagnostics
 
-@div[left-55]
+@div[left-50]
 ![RI](assets/epfd_monthly.png)
 @divend
 
@@ -108,7 +108,7 @@ Regression coefficients
 `\begin{align}
 \bar{u}_t&-f\bar{v}^{*} \\
 &= \\
-(a \cos\varphi)^{-1} \nabla &\cdot \vec{F}  + R 
+(a \cos\varphi)^{-1} \nabla & \cdot \vec{F}  + R 
 \end{align}`
 @divend
 
