@@ -49,14 +49,15 @@
 @div[right-50]
 <br>
 `$$RI = \frac{I_k}{\sum I_k}$$` 
-where `\[I_{k} = \sigma (\hat{y}-\hat{y_{k}})\]`
+where `$I_{k} = \sigma (\hat{y}-\hat{y_{k}})$`
 @divend
 
 +++
 
----?image=assets/te_merra_relimpact_all_final.png&size=80% auto
-@snap[north-west]
+---?image=assets/te_merra_relimpact_all_final.png&size=90% auto
 @title[Relative impact of SC in strat. temperature (MERRA)]
+
+@snap[north-west]
 @snapend
 
 
