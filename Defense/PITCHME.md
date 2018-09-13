@@ -55,9 +55,9 @@ where `$I_{k} = \sigma (\hat{y}-\hat{y_{k}})$`
 +++
 
 ---?image=assets/te_merra_relimpact_all_final.png&size=90% auto
-@title[Relative impact of SC in strat. temperature (MERRA)]
 
 @snap[north-west]
+@size[1.12em](Relative impact of SC in strat. temperature (MERRA))
 @snapend
 
 
