@@ -66,7 +66,7 @@ where `$I_{k} = \sigma (\hat{y}-\hat{y_{k}})$`
 
 @div[left-50]
 <br><br>
-![RI](assets/te_merra_relimpact_mlr.png)
+![RI](assets/te_merra_relimpact_mlr2.png)
 @divend
 
 @div[right-50]
