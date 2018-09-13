@@ -3,3 +3,5 @@ theme-override : assets/css/PITCHME.css
 layout : center-left
 
 transition : none
+
+mathjax : TeX-AMS_HTML-full
