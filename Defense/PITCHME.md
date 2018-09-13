@@ -54,11 +54,27 @@ where `$I_{k} = \sigma (\hat{y}-\hat{y_{k}})$`
 
 +++
 
----?image=assets/te_merra_relimpact_all_final.png&size=90% auto
+---?image=assets/te_merra_relimpact_all_final2.png&size=90% auto
 
 @snap[north-west]
 @size[1.12em](Relative impact of SC in strat. temperature (MERRA))
 @snapend
+
++++
+
+#### RI vs. regression coefficient
+
+@div[left-50]
+<br><br>
+![MONKEY](assets/te_merra_relimpact_mlr_final.png)
+@divend
+
+@div[right-50]
+<br><br>
+![MONKEY](assets/te_merra_coefs.png)
+@divend
+
+
 
 
 ---
