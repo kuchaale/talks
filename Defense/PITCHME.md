@@ -75,14 +75,14 @@ where `$I_{k} = \sigma (\hat{y}-\hat{y_{k}})$`
 @divend
 
 +++
-
+#### asdasda
 @div[left-50 fragment]
 
 ![RI](assets/te_merra_relimpact_mlr2.png)
 @divend
 
 @div[right-50]
-@ul[brighten]
+@ul
 - Present
 - Your
 - Ideas
