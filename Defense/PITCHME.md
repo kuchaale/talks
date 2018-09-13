@@ -23,8 +23,8 @@
 @ulend
 
 
----?image=assets/gray2010_layers.png&transition=none&size=auto 87.3%
----?image=assets/gray2010_topdown.png&transition=none&size=auto 87.3%
+---?image=assets/gray2010_layers.png&transition=none&size=auto 90%
+---?image=assets/gray2010_topdown.png&transition=none&size=auto 90%
 ---?image=assets/gray2010.png&size=auto 90%
 
 ---
