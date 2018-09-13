@@ -55,7 +55,7 @@
 where `$I_{k} = \sigma (\hat{y}-\hat{y_{k}})$`
 @divend
 
-+++
+
 
 ---?image=assets/te_merra_relimpact_all_final2.png&size=90% auto
 
