@@ -83,8 +83,8 @@ Regression coefficients
 
 @div[right-50]
 @ul
-- results by MLR confirmed by the nonlinear approaches (MLP, SVR)
-- SVR & MLP required rigorous cross-validation (~computing time)
+- results by MLR confirmed MLP & SVR
+- MLP & SVR required rigorous cross-validation (~computing time)
 - MLP & SVR explains more variance of MA time-series
 @ulend
 @divend
