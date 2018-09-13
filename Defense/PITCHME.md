@@ -14,6 +14,12 @@
 - timescales tackled: decadal: 11-yr solar cycle (SC),  and intraseasonal: orographic gravity waves (oGWs)
 - adoption of open-science
 @ulend
+
+
+---?image=assets/gray2010_layers.png&transition=none&size=auto 90%
+---?image=assets/gray2010_topdown.png&transition=none&size=auto 90%
+---?image=assets/gray2010.png&size=auto 90%
+
 +++
 #### Thesis targets
 @ul
@@ -23,9 +29,11 @@
 @ulend
 
 
----?image=assets/gray2010_layers.png&transition=none&size=auto 90%
----?image=assets/gray2010_topdown.png&transition=none&size=auto 90%
----?image=assets/gray2010.png&size=auto 90%
+---?image=assets/motivation_fig1.png&transition=none&size=auto 90%
+---?image=assets/motivation_fig2.png&transition=none&size=auto 90%
+---?image=assets/motivation_fig3.png&transition=none&size=auto 90%
+---?image=assets/motivation_fig4.png&transition=none&size=auto 90%
+---?image=assets/motivation_fig5.png&transition=none&size=auto 90%
 
 ---
 #### The 11-year solar cycle in current reanalyses: a (non)linear attribution study of the middle atmosphere
