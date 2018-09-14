@@ -182,19 +182,27 @@ Revision of mechanism by Kodera & Kuroda (2002)
 #### Results: temperature response
 ![](assets/ta_anomalies_all_20days_zm_wabsolutevaluesandsignificance.png)
 @snap[south-east]
-\\\\`$\ldots$` p values of <0.05<br>
-////`$\ldots$` p values of <0.01
+@size[large](\\\\`$\ldots$` p values of <0.05)<br>
+@size[large](////`$\ldots$` p values of <0.01)
 @snapend
 
 
 +++
 #### Results: zonal wind response
 ![](assets/ua_anomalies_all_20days_zm_wabsolutevaluesandsignificance.png)
+@snap[south-east]
+@size[large](\\\\`$\ldots$` p values of <0.05)<br>
+@size[large](////`$\ldots$` p values of <0.01)
+@snapend
 
 
 +++
 #### Results: ozone response
 ![](assets/vmro3_percentages_all_20days_zm_wabsolutevaluesandsignificance.png)
+@snap[south-east]
+@size[large](\\\\`$\ldots$` p values of <0.05)<br>
+@size[large](////`$\ldots$` p values of <0.01)
+@snapend
 
 
 ---
