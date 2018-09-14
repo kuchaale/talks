@@ -174,6 +174,29 @@ Revision of mechanism by Kodera & Kuroda (2002)
 #### Role of parametrized orographic gravity waves in the lower stratosphere
 ![No cover](assets/motivation_fig.png)
 
++++
+#### Peak detection
+![No cover](assets/methodology_fig.png)
+
++++
+#### Results: temperature response
+![](assets/ta_anomalies_all_20days_zm_wabsolutevaluesandsignificance.png)
+@snap[south-east]
+\\\\`$\ldots$$` p values of <0.05
+////`$\ldots$$` p values of <0.01
+@snapend
+
+
++++
+#### Results: zonal wind response
+![](assets/ua_anomalies_all_20days_zm_wabsolutevaluesandsignificance.png)
+
+
++++
+#### Results: ozone response
+![](assets/vmro3_percentages_all_20days_zm_wabsolutevaluesandsignificance.png)
+
+
 ---
 #### Thesis conclusions
 
