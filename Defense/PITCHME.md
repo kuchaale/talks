@@ -57,8 +57,9 @@
 where `$I_{k} = \sigma (\hat{y}-\hat{y_{k}})$`
 @size[large](`\begin{align}
 \hat{y} \ldots &\textnormal{original model output} \\
-\hat{y}_k \ldots &\textnormal{model output when k-variable held constant}`\end{align}
-)
+\hat{y}_k \ldots &\textnormal{model output when k-variable held constant}
+\end{align}`)
+
 @divend
 
 
