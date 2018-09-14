@@ -237,7 +237,12 @@ Elliassen-palm flux diagnostics
 ### Thesis conclusions
 
 @ul
--
+- benefits and caveats of fully nonlinear attribution techniques to study interactions in the atmosphere
+- MLR sufficiently resolves the solar signal in the middle atmosphere
+- rigorous attribution avoiding potential aliasings =>  correct conclusions about coupling mechanisms
+- importance of oGW perturbation outside of the surf zone for vortex preconditioning \[[Albers & Birner (2014)](http:
+//journals.ametsoc.org/doi/abs/10.1175/JAS-D-14-0026.1)\]
+- ?single unifying (top-down) mechanism acting across different timescales \[[Kidston et al, 2015](http://www.nature.com/doifinder/10.1038/ngeo2424)\]
 @ulend
 
 
