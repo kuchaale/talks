@@ -156,7 +156,7 @@ Revision of mechanism by Kodera & Kuroda (2002)
 @divend
 
 +++
-#### Tropical temperature response to SC (wavelet)
+#### Temperature response to SC @TLS (wavelet)
 @div[left-50]
 <br>
 ![RI](assets/wavelet.png)
