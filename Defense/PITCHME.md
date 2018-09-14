@@ -128,9 +128,9 @@ Revision of mechanism by Kodera & Kuroda (2002)
 @divend
 @div[right-60 fragment]
 @ul
-- enhanced downwelling in polar latitudes and upwelling in the equatorial region
-- possible aliasing with internal variability or volc. signal
-- not reproduced by GCMs (Schmidt et al, 2010; Mitchell et al, 2015b) or CCMs (Maycock et al, 2018)
+- @size[xx-large](enhanced downwelling in polar latitudes and upwelling in the equatorial region)
+- @size[xx-large](possible aliasing with internal variability or volc. signal)
+- @size[xx-large](not reproduced by GCMs [Schmidt et al, 2010; Mitchell et al, 2015b] or CCMs [Maycock et al, 2018])
 @ulend
 @divend
 
