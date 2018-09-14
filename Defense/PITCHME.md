@@ -216,7 +216,7 @@ Elliassen-palm flux diagnostics
 
 +++
 #### Localized response in ozone
-![](assets/epfdiag_anomalies_all_20days_zm_4poster.png)
+![](assets/vmro3@70hPa_percentages_all_20days_wsignificancefrom100000_tinypng.png)
 @snap[south-east]
 @size[large](\\\\\\\\`$\ldots$` p values of <0.05)<br>
 @size[large](////`$\ldots$` p values of <0.01)
