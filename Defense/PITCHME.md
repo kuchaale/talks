@@ -8,7 +8,7 @@
 
 
 ---
-#### Thesis highlights
+### Thesis highlights
 @ul
 - attribution of top-down and bottom-up coupling processes of various timescales in the middle atmosphere
 - timescales tackled: 
@@ -23,7 +23,7 @@
 ---?image=assets/gray2010.png&size=auto 90%
 
 +++
-#### Thesis targets
+### Thesis targets
 @ul
 - (non)linear assessment of 11-yr SC in the middle atmosphere
 - aliasing of 11-yr SC in the tropical lower stratosphere (TLS)
@@ -38,7 +38,7 @@
 ---?image=assets/motivation_fig5.png&transition=none&size=auto 90%
 
 ---
-#### The 11-year solar cycle in current reanalyses: a (non)linear attribution study of the middle atmosphere
+### The 11-year solar cycle in current reanalyses: a (non)linear attribution study of the middle atmosphere
 ![ACP cover](assets/nnet_fig.png)
 
 +++
@@ -98,14 +98,14 @@ Regression coefficients
 
 
 +++
-### Monthly response
+#### Monthly response
 Revision of mechanism by Kodera & Kuroda (2002)
 ![](assets/teue_merra_coefs_monthly.png)
 
 
 +++
-### Monthly response
-#### Elliassen-palm flux diagnostics
+#### Monthly response
+##### Elliassen-palm flux diagnostics
 
 @div[left-40]
 ![RI](assets/epfd_monthly.png)
@@ -121,7 +121,7 @@ Revision of mechanism by Kodera & Kuroda (2002)
 @divend
 
 +++
-### Monthly response
+#### Monthly response
 <br>
 @div[left-40]
 ![RI](assets/epfd_monthly.png)
@@ -171,7 +171,7 @@ Revision of mechanism by Kodera & Kuroda (2002)
 @divend
 
 ---
-#### Role of parametrized orographic gravity waves in the lower stratosphere
+### Role of parametrized orographic gravity waves in the lower stratosphere
 ![No cover](assets/motivation_fig.png)
 
 +++
@@ -221,15 +221,21 @@ Revision of mechanism by Kodera & Kuroda (2002)
 @size[large](\\\\\\\\`$\ldots$` p values of <0.05)<br>
 @size[large](////`$\ldots$` p values of <0.01)
 @snapend
+
 +++
-### Summary
+#### Discussion
 @ul
--
+- common features between Himalayas composite with SSWs
+- position of imposed drag by oGWs may be critical for nonlocal interaction with PWs
+  - compensation mechanism suggested by Cohen et al. (2014)
+  - relative to the surf zone
+- importannce of discussion of localized dynamical effects
+- not straightforward causality between oGWs and SSWs
 @ulend
 
 
 ---
-#### Thesis conclusions
+### Thesis conclusions
 
 @ul
 -
