@@ -137,8 +137,37 @@ Revision of mechanism by Kodera & Kuroda (2002)
 
 
 ---
-#### On the aliasing of the solar cycle in the lower-stratospheric tropical temperature
+### On the aliasing of the solar cycle in the lower-stratospheric tropical temperature
 ![JGR cover](assets/aliasing.png)
++++
+#### Tropical temperature response to SC (MLR)
+@div[left-50]
+![RI](assets/profile.png)
+@divend
+@div[right-50 fragment]
+@ul
+- concerns about the origin of the lower peak (Marsh & Garcia, 2007; Chiodo et al, 2014) observed and simulated by CCMs
+- confirmed aliasing of SC with major volc. eruptions using:
+  - statistical techniques: MLR and wavelet analysis
+  - sensitivity simulations with CCM SOCOLv3
+- possibility of decadal variation from SST interannual variability
+@ulend
+@divend
+
++++
+#### Tropical temperature response to SC (wavelet)
+@div[left-50]
+![RI](assets/wavelet.png)
+@divend
+@div[right-50 fragment]
+@ul
+- possibility of decadal variation from SST interannual variability
+- solar signal is reduced in TLS (@50 hPa) to 44% in case of REF-C1-q
+- and 94% in case of REF-C1-q-clim for the period 1980–2009
+- ongoing discussion on mechanism of downward signal propagation
+- incorrect attribution leads to incorrect conclusions
+@ulend
+@divend
 
 ---
 #### Role of parametrized orographic gravity waves in the lower stratosphere
