@@ -130,7 +130,7 @@ Revision of mechanism by [Kodera & Kuroda (2002)](https://agupubs.onlinelibrary.
 @ul
 - @size[xx-large](enhanced downwelling in polar latitudes and upwelling in the equatorial region)
 - @size[xx-large](possible aliasing with internal variability or volc. signal)
-- @size[xx-large](not reproduced by GCMs [[Schmidt et al, 2010](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2009JD012542); [Mitchell et al, 2015](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2530)] or CCMs [[Maycock et al, 2018](https://www.atmos-chem-phys.net/18/11323/2018/acp-18-11323-2018.html)])
+- @size[xx-large](not reproduced by GCMs [[Schmidt et al, 2010](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2009JD012542); [Mitchell et al, 2015](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2530)] or CCMs [[Maycock et al, 2018](https://www.atmos-chem-phys.net/18/11323/2018/acp-18-11323-2018.html)]
 @ulend
 @divend
 
@@ -147,7 +147,7 @@ Revision of mechanism by [Kodera & Kuroda (2002)](https://agupubs.onlinelibrary.
 @divend
 @div[right-50 fragment]
 @ul
-- @size[xx-large](concerns about the origin of the lower peak [[Marsh & Garcia, 2007](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2007GL030935); [Chiodo et al, 2014](https://www.atmos-chem-phys.net/14/5251/2014/)])
+- @size[xx-large](concerns about the origin of the lower peak [[Marsh & Garcia, 2007](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2007GL030935); [Chiodo et al, 2014](https://www.atmos-chem-phys.net/14/5251/2014/)]])
 - @size[xx-large](confirmed aliasing of SC with major volc. eruptions using:)
   - @size[xx-large](MLR and wavelet analysis)
   - @size[xx-large](sensitivity simulations with CCM SOCOLv3)
