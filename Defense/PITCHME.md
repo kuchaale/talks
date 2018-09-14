@@ -227,8 +227,7 @@ Revision of mechanism by Kodera & Kuroda (2002)
 @ul
 - common features between Himalayas composite with SSWs
 - position of imposed drag by oGWs may be critical for nonlocal interaction with PWs
-  - compensation mechanism suggested by Cohen et al. (2014)
-  - relative to the surf zone
+  - compensation mechanism suggested by [Cohen et al (2014)](https://journals.ametsoc.org/doi/abs/10.1175/JAS-D-14-0021.1)
 - importannce of discussion of localized dynamical effects
 - not straightforward causality between oGWs and SSWs
 @ulend
