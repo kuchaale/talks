@@ -171,9 +171,10 @@ Elliassen-palm flux diagnostics
 @divend
 
 ---
+---?color=orange
 ### Role of parametrized orographic gravity waves in the lower stratosphere
 ![No cover](assets/motivation_fig.png)
----?color=orange
+
 +++
 #### Peak detection
 ![No cover](assets/methodology_fig.png)
