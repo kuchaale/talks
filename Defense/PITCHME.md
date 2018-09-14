@@ -182,7 +182,7 @@ Revision of mechanism by Kodera & Kuroda (2002)
 #### Results: temperature response
 ![](assets/ta_anomalies_all_20days_zm_wabsolutevaluesandsignificance.png)
 @snap[south-east]
-@size[large](\\\\\\`$\ldots$` p values of <0.05)<br>
+@size[large](\\\\\\\\`$\ldots$` p values of <0.05)<br>
 @size[large](////`$\ldots$` p values of <0.01)
 @snapend
 
@@ -191,7 +191,7 @@ Revision of mechanism by Kodera & Kuroda (2002)
 #### Results: zonal wind response
 ![](assets/ua_anomalies_all_20days_zm_wabsolutevaluesandsignificance.png)
 @snap[south-east]
-@size[large](\\\\\\`$\ldots$` p values of <0.05)<br>
+@size[large](\\\\\\\\`$\ldots$` p values of <0.05)<br>
 @size[large](////`$\ldots$` p values of <0.01)
 @snapend
 
@@ -200,9 +200,20 @@ Revision of mechanism by Kodera & Kuroda (2002)
 #### Results: ozone response
 ![](assets/vmro3_percentages_all_20days_zm_wabsolutevaluesandsignificance.png)
 @snap[south-east]
-@size[large](\\\\\\`$\ldots$` p values of <0.05)<br>
+@size[large](\\\\\\\\`$\ldots$` p values of <0.05)<br>
 @size[large](////`$\ldots$` p values of <0.01)
 @snapend
+
++++
+#### Dynamical effects: residual circulation
+![](assets/epfdiag_anomalies_all_20days_zm_4poster.png)
+@snap[south-east]
+@size[large](`$\uparrow\ldots \bar{w}^{*} $`)<br>
+@size[large](`$\rightarrow\ldots \bar{v}^{*} $`)<br>
+@size[large](contours`$\ldots$` EPFD)<br>
+@size[large](contours`$\ldots$` GWD)
+@snapend
+
 
 
 ---
