@@ -56,8 +56,9 @@
 `$$RI = \frac{I_k}{\sum I_k}$$` 
 where `$I_{k} = \sigma (\hat{y}-\hat{y_{k}})$`
 `\begin{align}
-\hat{y} \ldots &\text{original model output} \\
-\hat{y}_k \ldots &\text{model output when k-variable held constant}
+\hat{y} \ldots   &\text{original model output} \\
+\hat{y}_k \ldots &\text{model output when} \\ 
+                 &\text{k-variable held constant}
 \end{align}`
 @divend
 
