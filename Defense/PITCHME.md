@@ -142,13 +142,14 @@ Revision of mechanism by Kodera & Kuroda (2002)
 +++
 #### Tropical temperature response to SC (MLR)
 @div[left-50]
+<br>
 ![RI](assets/profile.png)
 @divend
 @div[right-50 fragment]
 @ul
-- concerns about the origin of the lower peak (Marsh & Garcia, 2007; Chiodo et al, 2014) observed and simulated by CCMs
+- @size[large](concerns about the origin of the lower peak (Marsh & Garcia, 2007; Chiodo et al, 2014))
 - confirmed aliasing of SC with major volc. eruptions using:
-  - statistical techniques: MLR and wavelet analysis
+  - stat. techniques: MLR and wavelet analysis
   - sensitivity simulations with CCM SOCOLv3
 - possibility of decadal variation from SST interannual variability
 @ulend
@@ -157,6 +158,7 @@ Revision of mechanism by Kodera & Kuroda (2002)
 +++
 #### Tropical temperature response to SC (wavelet)
 @div[left-50]
+<br>
 ![RI](assets/wavelet.png)
 @divend
 @div[right-50 fragment]
