@@ -210,7 +210,7 @@ Revision of mechanism by Kodera & Kuroda (2002)
 @snap[south-east]
 @size[large](`$\uparrow\ldots \bar{w}^{*} $`)<br>
 @size[large](`$\rightarrow\ldots \bar{v}^{*} $`)<br>
-@size[large](shading `$\ldots$` \nabla \cdot \vec{F})<br>
+@size[large](shading `$\ldots \nabla \cdot \vec{F}$`)<br>
 @size[large](contours `$\ldots$` GWD)
 @snapend
 
