@@ -130,7 +130,7 @@ Revision of mechanism by [Kodera & Kuroda (2002)](https://agupubs.onlinelibrary.
 @ul
 - @size[xx-large](enhanced downwelling in polar latitudes and upwelling in the equatorial region)
 - @size[xx-large](possible aliasing with internal variability or volc. signal)
-- @size[xx-large](not reproduced by GCMs \[<a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2009JD012542" target="_blank">Schmidt et al, 2010</a>; <a href="https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2530" target="_blank">Mitchell et al, 2015</a>] or CCMs [<a href="https://www.atmos-chem-phys.net/18/11323/2018/acp-18-11323-2018.html" target="_blank">Maycock et al, 2018</a>\]
+- @size[xx-large](not reproduced by GCMs \[<a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2009JD012542" target="_blank">Schmidt et al, 2010</a>; <a href="https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.2530" target="_blank">Mitchell et al, 2015</a>] or CCMs \[<a href="https://www.atmos-chem-phys.net/18/11323/2018/acp-18-11323-2018.html" target="_blank">Maycock et al, 2018</a>]
 @ulend
 @divend
 
