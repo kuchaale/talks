@@ -147,7 +147,7 @@ Revision of mechanism by Kodera & Kuroda (2002)
 @divend
 @div[right-50 fragment]
 @ul
-- @size[xx-large](concerns about the origin of the lower peak (Marsh & Garcia, 2007; Chiodo et al, 2014))
+- @size[xx-large](concerns about the origin of the lower peak \(Marsh & Garcia, 2007; Chiodo et al, 2014\))
 - @size[xx-large](confirmed aliasing of SC with major volc. eruptions using:)
   - @size[xx-large](MLR and wavelet analysis)
   - @size[xx-large](sensitivity simulations with CCM SOCOLv3)
@@ -163,8 +163,7 @@ Revision of mechanism by Kodera & Kuroda (2002)
 @divend
 @div[right-50 fragment]
 @ul
-- @size[xx-large](possibility of decadal variation from SST interannual variability)
-- @size[xx-large](solar signal is reduced in TLS (@50 hPa) to 44% in case of REF-C1-q)
+- @size[xx-large](solar signal is reduced in TLS \(@50 hPa\) to 44% in case of REF-C1-q)
 - @size[xx-large](and 94% in case of REF-C1-q-clim for the period 1980–2009)
 - @size[xx-large](ongoing discussion on mechanism of downward signal propagation)
 - @size[xx-large](incorrect attribution leads to incorrect conclusions)
