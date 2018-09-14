@@ -105,7 +105,7 @@ Revision of mechanism by [Kodera & Kuroda (2002)](https://agupubs.onlinelibrary.
 
 +++
 #### Monthly response
-##### Elliassen-palm flux diagnostics
+Elliassen-palm flux diagnostics
 
 @div[left-40]
 ![RI](assets/epfd_monthly.png)
