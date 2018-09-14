@@ -182,7 +182,7 @@ Revision of mechanism by Kodera & Kuroda (2002)
 #### Results: temperature response
 ![](assets/ta_anomalies_all_20days_zm_wabsolutevaluesandsignificance.png)
 @snap[south-east]
-\\\\`$\ldots$` p values of <0.05
+\\\\`$\ldots$` p values of <0.05<br>
 ////`$\ldots$` p values of <0.01
 @snapend
 
