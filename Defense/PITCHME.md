@@ -52,7 +52,7 @@
 @ulend
 @divend
 
-@div[right-50]
+@div[right-50 fragment]
 `$$RI = \frac{I_k}{\sum I_k}$$` 
 where `$I_{k} = \sigma (\hat{y}-\hat{y_{k}})$`
 `\begin{align}
