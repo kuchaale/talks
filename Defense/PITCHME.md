@@ -46,9 +46,9 @@
 <br>
 @div[left-50]
 @ul
-- multiple linear regression (MLR)
-- support vector regression (SVR)
-- multiple layer perceptron (MLP)
+- multiple linear regression (**MLR**)
+- support vector regression (**SVR**)
+- multiple layer perceptron (**MLP**)
 @ulend
 @divend
 
