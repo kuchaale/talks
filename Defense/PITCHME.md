@@ -148,7 +148,7 @@ Revision of mechanism by Kodera & Kuroda (2002)
 @div[right-50 fragment]
 @ul
 @size[xx-large](
-- concerns about the origin of the lower peak (Marsh & Garcia, 2007; Chiodo et al, 2014))
+- concerns about the origin of the lower peak (Marsh & Garcia, 2007; Chiodo et al, 2014)
 - confirmed aliasing of SC with major volc. eruptions using:
   - stat. techniques: MLR and wavelet analysis
   - sensitivity simulations with CCM SOCOLv3
