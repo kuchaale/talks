@@ -147,7 +147,7 @@ Revision of mechanism by [Kodera & Kuroda (2002)](https://agupubs.onlinelibrary.
 @divend
 @div[right-50 fragment]
 @ul
-- @size[xx-large](concerns about the origin of the lower peak [[Marsh & Garcia, 2007](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2007GL030935); [Chiodo et al, 2014](https://www.atmos-chem-phys.net/14/5251/2014/)]])
+- @size[xx-large](concerns about the origin of the lower peak [<a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2007GL030935" target="_blank">Marsh & Garcia, 2007</a>; <a href="https://www.atmos-chem-phys.net/14/5251/2014/" target="_blank">Chiodo et al, 2014</a>])
 - @size[xx-large](confirmed aliasing of SC with major volc. eruptions using:)
   - @size[xx-large](MLR and wavelet analysis)
   - @size[xx-large](sensitivity simulations with CCM SOCOLv3)
