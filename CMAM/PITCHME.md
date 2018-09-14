@@ -36,7 +36,7 @@ Ales Kuchar, Department of Atmosperic Physics, MFF CUNI, Prague
 
 ### Importance of oGWS in LS
 
-![Image](assets/motivation_fig2.png)
+![Image](assets/motivation_fig_map.png)
 
 ---
 
