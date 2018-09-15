@@ -102,7 +102,7 @@ Regression coefficients
 Revision of mechanism by [Kodera & Kuroda (2002)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2002JD002224)
 ![](assets/teue_merra_coefs_monthly.png)
 @snap[south-east]
-@size[large](@color[red](||||)`$\ldots$` p values of <0.05); @size[large](@color[yellow](||||)`$\ldots$` p values of <0.01)
+@size[large](@color[red](||||)`$\ldots$` p values of <0.05; @color[yellow](||||)`$\ldots$` p values of <0.01)
 @snapend
 
 
