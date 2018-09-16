@@ -17,6 +17,9 @@
 - adoption of open-science (tools, datasets)
 @ulend
 
+Notes:
+precist
+
 
 ---?image=assets/gray2010_layers.png&transition=none&size=auto 90%
 ---?image=assets/gray2010_topdown.png&transition=none&size=auto 90%
@@ -29,6 +32,9 @@
 - aliasing of 11-yr SC in the tropical lower stratosphere (TLS)
 - role of parametrized oGWs 
 @ulend
+
+Notes:
+predstaveni struktury samotne prace
 
 
 ---?image=assets/motivation_fig1.png&transition=none&size=auto 90%
