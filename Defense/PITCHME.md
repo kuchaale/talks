@@ -86,7 +86,7 @@ Note:
 - atribuce jeden. SC v radach teploty, ozony a cirk. charakteristikach (revize top-down)
 - v nekolika reanalyzach (**MERRA**, ERA-I, JRA-55)
 - cil: porovnani MLR a nelin. metod
-- vysvetleni rozdilu mezi MLR a MLP (sigmoid fce)
+- vysvetleni rozdilu mezi MLR a MLP (sigmoid jako aktivacni fce)
 
 
 +++
