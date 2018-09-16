@@ -11,3 +11,5 @@ footnote : "2018-09-17"
 logo : assets/logo.png
 logo-position : top-right
 
+print-fragments : true
+
