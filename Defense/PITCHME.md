@@ -34,7 +34,7 @@ Note:
 Note:
 
 - top-down coupling procesy obecne + vysvetleni na prikladu jedenactileteho slunecniho cyklu (**Kodera&Kuroda**) + dalsi (volk. erupce)
-
+- nelinearni interakce, napr. s QBO
 
 ---?image=assets/gray2010.png&size=auto 90%
 
@@ -54,21 +54,28 @@ Note:
 
 - predstaveni struktury samotne prace
 - vzhledem k nelinear. interakcim v atmosfere (SC-QBO)=>nelinear. metody
-- aliasing zde chapeme jako nerozlisitelne pusobeni urcitych fenomenu v tomto pripade dek. cas. skale
+- aliasing zde chapeme jako nerozlisitelne pusobeni urcitych fenomenu v tomto pripade na dek. cas. skale
 - roli orogr. gravitacnich vln zde reprezentuje coupling nizkomeritkove (parametrizovane) procesy na mezisezonni cas. skale
 
 
 ---?image=assets/motivation_fig1.png&transition=none&size=auto 90%
----?image=assets/motivation_fig2.png&transition=none&size=auto 90%
----?image=assets/motivation_fig3.png&transition=none&size=auto 90%
----?image=assets/motivation_fig4.png&transition=none&size=auto 90%
----?image=assets/motivation_fig5.png&transition=none&size=auto 90%
 
 Note:
 
 - proc se vubec zabyvame atribuci prislusnych?
 - patricna detekce a atribuce signalu=>odhaleni zakladnich mechanismu (tezke: kratke rady+male amplitudy)
+
+---?image=assets/motivation_fig2.png&transition=none&size=auto 90%
+
+Note:
+
 - pochopeni na datech z pozorovani=>validaci modelu, jenz muzeme posleze pouzit k predikci budouciho klimatu
+
+---?image=assets/motivation_fig3.png&transition=none&size=auto 90%
+---?image=assets/motivation_fig4.png&transition=none&size=auto 90%
+---?image=assets/motivation_fig5.png&transition=none&size=auto 90%
+
+
 
 ---
 ### The 11-year solar cycle in current reanalyses: a (non)linear attribution study of the middle atmosphere
