@@ -120,16 +120,16 @@ Note:
 
 ---?image=assets/te_merra_relimpact_all_final2.png&size=90% auto
 
+@snap[north-west]
+@css[headline1](Relative impact of SC in strat. temperature (MERRA))
+@snapend
+
 Note:
 
 - nejvetsi dopad v mezosfere
 - isolovane signaly kolem v horni stratosfere (~diskontinuity)
 - @TLS RI nepresahne 20% (dominance QBO a vulkanu)
 - porovnatelne RI napric metodami
-
-@snap[north-west]
-@css[headline1](Relative impact of SC in strat. temperature (MERRA))
-@snapend
 
 +++
 
