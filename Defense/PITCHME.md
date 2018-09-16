@@ -23,14 +23,23 @@ Note:
 
 
 ---?image=assets/gray2010_layers.png&transition=none&size=auto 90%
----?image=assets/gray2010_topdown.png&transition=none&size=auto 90%
----?image=assets/gray2010.png&size=auto 90%
 
 Note:
 
 - stredni atmosfera (MA) od tropopauzy po homopauzu oddelujici homosferu (v níž se podstatně nemění relativní zastoupení plynů ve vzdušné směsi) od hereosfery 
 - my se vsak zamerime na stratosferu a mezosferu kvuli dostupnosti data CCM a reanalyz
+
+---?image=assets/gray2010_topdown.png&transition=none&size=auto 90%
+
+Note:
+
 - top-down coupling procesy obecne + vysvetleni na prikladu jedenactileteho slunecniho cyklu (**Kodera&Kuroda**) + dalsi (volk. erupce)
+
+
+---?image=assets/gray2010.png&size=auto 90%
+
+Note:
+
 - bottom-up coupling processy, tj. sireni atmosferickych vln ruzneho meritka + TSI mechanismus
 
 +++
