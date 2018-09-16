@@ -44,9 +44,9 @@ Note:
 Note:
 
 - predstaveni struktury samotne prace
-- vzhledem k nelinearnim interakcim v atmosfere (SC-QBO) => nelinearni metody
-- aliasing zde chapeme jako nerozlisitelne pusobeni urcitych fenomenu v tomto pripade dekadalni casove skale
-- roli orogr. gravitacnich vln zde reprezentuje coupling nizkomeritkove (=> parametrizovane) procesy na mezisezonni cas. skale
+- vzhledem k nelinear. interakcim v atmosfere (SC-QBO)=>nelinear. metody
+- aliasing zde chapeme jako nerozlisitelne pusobeni urcitych fenomenu v tomto pripade dek. cas. skale
+- roli orogr. gravitacnich vln zde reprezentuje coupling nizkomeritkove (parametrizovane) procesy na mezisezonni cas. skale
 
 
 ---?image=assets/motivation_fig1.png&transition=none&size=auto 90%
@@ -55,9 +55,23 @@ Note:
 ---?image=assets/motivation_fig4.png&transition=none&size=auto 90%
 ---?image=assets/motivation_fig5.png&transition=none&size=auto 90%
 
+Note:
+
+- proc se vubec zabyvame atribuci prislusnych?
+- patricna detekce a atribuce signalu=>odhaleni zakladnich mechanismu (tezke: kratke rady+male amplitudy)
+- pochopeni na datech z pozorovani=>validaci modelu, jenz muzeme posleze pouzit k predikci budouciho klimatu
+
 ---
 ### The 11-year solar cycle in current reanalyses: a (non)linear attribution study of the middle atmosphere
 ![ACP cover](assets/nnet_fig.png)
+
+Note:
+
+- atribuce jeden. SC v radach teploty, ozony a cirk. charakteristikach (revize top-down)
+- v nekolika reanalyzach (**MERRA**, ERA-I, JRA-55)
+- cil: porovnani MLR a nelin. metod
+- vysvetleni rozdilu mezi MLR a MLP (sigmoid fce)
+
 
 +++
 #### Attribution of SC using multiple techniques
@@ -80,9 +94,22 @@ where `$I_{k} = \sigma (\hat{y}-\hat{y_{k}})$`
 \end{align}`
 @divend
 
+Note:
+
+- SVR vyuziva jadrove (nelin.) transformace prom. do vice-dim. prostoru, kde je mozne provest provest v zasade lin. regresi
+- krosvalidace
+- RI pro porovnani dopadu jedn. fenomenu (x regr. koef.)
+- median
 
 
 ---?image=assets/te_merra_relimpact_all_final2.png&size=90% auto
+
+Note:
+
+- nejvetsi dopad v mezosfere
+- isolovane signaly kolem v horni stratosfere (~diskontinuity)
+- @TLS RI nepresahne 20% (dominance QBO a vulkanu)
+- porovnatelne RI napric metodami
 
 @snap[north-west]
 @css[headline1](Relative impact of SC in strat. temperature (MERRA))
@@ -100,6 +127,27 @@ Regression coefficients
 ![coefs](assets/te_merra_coefs.png)
 @divend
 
+@snap[south-east]
+@size[large](@color[red](**||||**)`$\ldots$` p values of <0.05; @color[yellow](**||||**)`$\ldots$` p values of <0.01)
+@snapend
+
+Note:
+
+- stat. vyznamnost regr. koef. (t-test overeno bootstrapem)
+- normalizace na Smax-Smin
+- koresponduji (prepocet RI na regr. koef.)
+
+
++++
+#### RI of individual phenomena 
+![coefs](assets/max_rel_impact_SVR.png)
+
+Note:
+
+- dominance SC v horni strato. a mezo.
+- dominance QBO a volk. v TLS
+
+
 +++
 #### Summary of (non)linear attribution
 @div[left-50 fragment]
@@ -108,11 +156,15 @@ Regression coefficients
 
 @div[right-50]
 @ul
-- results by MLR confirmed MLP & SVR
+- novel MLP & SVR contributed to robustnes of signals by MLR
 - MLP & SVR required rigorous cross-validation (~computing time)
 - MLP & SVR explains more variance of MA time-series
 @ulend
 @divend
+
+Note:
+
+- precist
 
 
 +++
@@ -122,6 +174,11 @@ Revision of mechanism by [Kodera & Kuroda (2002)](https://agupubs.onlinelibrary.
 @snap[south-east]
 @size[large](@color[red](**||||**)`$\ldots$` p values of <0.05; @color[yellow](**||||**)`$\ldots$` p values of <0.01)
 @snapend
+
+Note:
+
+- sireni indukovaneho signalu SC smerem doly 
+- ne uplne zrejmy vliv na BDC zpocatku zimy, i pres detekci stat. vyznamnych signalu
 
 
 
@@ -142,6 +199,11 @@ Elliassen-palm flux diagnostics
 \end{align}`
 @divend
 
+Note:
+
+- vysvetlit rovnici vzhledem k obrazku
+- interakce planetarnich vln se zakladnim zonalnim proudenim a meridionalni velkoprostorovou cirk.
+
 
 +++
 #### Monthly response
@@ -157,11 +219,22 @@ Elliassen-palm flux diagnostics
 @ulend
 @divend
 
+Note:
+
+- prestoze jsou urcite dynamicke signaly detekovany (kratka rada mereni)
+- vyvstava dulezitost robustnich metod
+- ne uplne zrejma reprodukce soucasnymi modely
+
 
 
 ---
 ### On the aliasing of the solar cycle in the lower-stratospheric tropical temperature
 ![JGR cover](assets/aliasing.png)
+
+Note:
+
+- zamereni na dopad SC v dolni tropicke stratosfere a moznou misatribuci tohoto signalu vzhledem k dalsi fenomenum projevujici se s dek. periodicitou
+
 +++
 #### Tropical temperature response to SC (MLR)
 @div[left-50]
@@ -178,6 +251,12 @@ Elliassen-palm flux diagnostics
 @ulend
 @divend
 
+Note:
+
+- pouzite metody
+- data, zejmean SOCOL (CCM, okrajove podminky, QBO-nudging)
+- popis obrazku (horni vs. dolni strato)
+
 +++
 #### Temperature response to SC @TLS (wavelet)
 @div[left-50]
@@ -193,9 +272,20 @@ Elliassen-palm flux diagnostics
 @ulend
 @divend
 
+Note:
+
+- popis wavelet transformace (casove-frekvenci metoda=>nestacionarnost X FFT)
+- global: prumer pres vsechny spektra, stat. vyznamnost
+- precist zavery
+
+
 ---
 ### Role of parametrized orographic gravity waves in the lower stratosphere
 ![No cover](assets/motivation_fig.png)
+
+Note: 
+
+- popis obr.: oGWD/(oGWD+nGWD+EPFD)
 
 +++
 #### Peak detection
