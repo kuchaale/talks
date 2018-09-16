@@ -140,7 +140,7 @@ Note:
 
 +++
 #### RI of individual phenomena 
-![coefs](assets/max_rel_impact_SVR.png)
+![coefs](assets/max_rel_impact_SVR2.png)
 
 Note:
 
@@ -285,11 +285,26 @@ Note:
 
 Note: 
 
-- popis obr.: oGWD/(oGWD+nGWD+EPFD)
+- GW vznikající působením síly zemské tíže v interakci s různými mechanickými rozruchy, např. při obtékání překážek proudem tekutiny
+- jejich role roste s vyskou, posledni zjisteni vsak ukazuji, ze jsou byt dulezite i pro nizsi strato
+- popis CMAM, rozliseni (obzvlaste pro CCMs)=> potreba paremetrizace oGWs (Scinoccca and McFarlane (2000))
+- popis obr.: oGWD/(oGWD+nGWD+EPFD) 
+- konzistentni skrze dalsi modely
+- oblasti slabych zonalnich vetru ve strato=>podminky pro disipaci stac. orogr. vln
+
 
 +++
 #### Peak detection
 ![No cover](assets/methodology_fig.png)
+
+Note:
+
+- lehci identifikace lok. pusobeni orograf. vln+vetsi spolehlivost reanalyz
+- identifikace nejvyznamejsi hotspotu @70 hPa
+- detekce nejvyznamejsi peaku vzdalenych 20 nebo 30 dni **v zime**
+- zprumerovani=>kompozity
+- nejvetsi amplitude pro WestAmer
+- nejcastejsi pro EastAsia
 
 +++
 #### Results: temperature response
@@ -298,6 +313,12 @@ Note:
 @size[large](\\\\\\\\`$\ldots$` p values of <0.05)<br>
 @size[large](////`$\ldots$` p values of <0.01)
 @snapend
+
+Note:
+
+- stat. vyznamnost byla testovana vzhledem k 100k nahodnych vzorku=>odhad norm. rozdeleni=>vypocet p-hodnot
+- spolecna negativni anomalie v dolni mezo, stat. vyznamna na hladine vyznamnosti p<0.01
+- dale vyrazna pos. anomalie v dolni polarni strato pro komp. Himalaji
 
 
 +++
@@ -308,6 +329,11 @@ Note:
 @size[large](////`$\ldots$` p values of <0.01)
 @snapend
 
+Note:
+
+- odezva v teplote koresponduje se zonalnim vetrem
+- zeslabeni PNJ, zesileni subtropickeho jetu
+
 
 +++
 #### Results: ozone response
@@ -317,6 +343,13 @@ Note:
 @size[large](////`$\ldots$` p values of <0.01)
 @snapend
 
+Note: 
+
+- stejne pozitivni jako teplota v dolni strato
+- dynamicky induk. anomalie v teplote ma vliv na fotochemii ozonu, coz urychluje jeho destrukci
+
+
+
 +++
 #### Dynamical effects: residual circulation
 ![](assets/epfdiag_anomalies_all_20days_zm_4poster.png)
@@ -324,8 +357,15 @@ Note:
 @size[large](`$\uparrow\ldots \bar{w}^{*} $`)<br>
 @size[large](`$\rightarrow\ldots \bar{v}^{*} $`)<br>
 @size[large](shading `$\ldots \nabla \cdot \vec{F}$`)<br>
-@size[large](contours `$\ldots$` GWD)
+@size[large](contours `$\ldots$` oGWD)
 @snapend
+
+Note:
+
+- stejny pattern pro vsechny kompozity v mezosfere (pos. anomalie v EPFD)
+- zvysena disipace pro Himalaje
+- downward control=>intenzifikace BDC
+
 
 +++
 #### Localized response in ozone
