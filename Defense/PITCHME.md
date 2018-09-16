@@ -301,11 +301,11 @@ Note:
 
 Note: 
 
-- GW vznikající působením síly zemské tíže v interakci s různými mechanickými rozruchy, např. při obtékání překážek proudem tekutiny
-- jejich role roste s vyskou, posledni zjisteni vsak ukazuji, ze jsou byt dulezite i pro nizsi strato
+- GW vznikající působením síly zemské tíže v interakci s různými mechanickými rozruchy, např. při obtékání překážek
+- jejich role roste s vyskou, posledni zjisteni vsak ukazuji, ze jsou dulezite i pro nizsi strato
 - popis CMAM, rozliseni (obzvlaste pro CCMs)=> potreba paremetrizace oGWs (Scinoccca and McFarlane (2000))
-- popis obr.: oGWD/(oGWD+nGWD+EPFD) 
-- konzistentni skrze dalsi modely
+- oGWD/(oGWD+nGWD+EPFD) 
+- konzistentni skrze dalsi modely, rozdily vzhledem k pozorovani
 - oblasti slabych zonalnich vetru ve strato=>podminky pro disipaci stac. orogr. vln
 
 
