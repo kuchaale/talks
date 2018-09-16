@@ -17,7 +17,7 @@
 - adoption of open-science (tools, datasets)
 @ulend
 
-Notes:
+Note:
 
 - precist
 
@@ -34,7 +34,7 @@ Notes:
 - role of parametrized oGWs 
 @ulend
 
-Notes:
+Note:
 
 - predstaveni struktury samotne prace
 
