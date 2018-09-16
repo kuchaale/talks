@@ -140,7 +140,7 @@ Note:
 
 +++
 #### RI of individual phenomena 
-![coefs](assets/max_rel_impact_SVR2.png)
+![maxRI](assets/max_rel_impact_SVR2.png)
 
 Note:
 
