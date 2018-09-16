@@ -365,15 +365,22 @@ Note:
 - stejny pattern pro vsechny kompozity v mezosfere (pos. anomalie v EPFD)
 - zvysena disipace pro Himalaje
 - downward control=>intenzifikace BDC
+- podobne rysy jako v pripade SSW
 
 
 +++
-#### Localized response in ozone
+#### Localized response in ozone @70hPa
 ![](assets/vmro3@70hPa_percentages_all_20days_wsignificancefrom100000_tinypng.png)
 @snap[south-east]
 @size[large](\\\\\\\\`$\ldots$` p values of <0.05)<br>
 @size[large](////`$\ldots$` p values of <0.01)
 @snapend
+
+Note:
+
+- prestoze stat. nevyznamne anom. v zon. prumeru (maskovani), zejmena pro EA a WA
+- pusobeni GW je zonalne asymetricke=>potreba 3D diagnostik (odkaz na LWA+Plumb)
+
 
 +++
 #### Discussion
@@ -385,14 +392,22 @@ Note:
 - not straightforward causality between oGWs and SSWs
 @ulend
 
+Note:
+
+- perturbace GW mimo surf zone zpusobi nelokalni interakci s PWs a zeslabeni vortex
+- zintenzivneni vert. propagace PW a negativni anomalie EPFD
+- dusledkem asym. povahy pusobeni GWs nutna diskuze a aplikace 3D diagnostik
+- overeti kauzality pomoci mech. ci komplexnejsiho modelu
+
+
+
 
 ---
 ### Thesis conclusions
 
 @ul
-- benefits and caveats of fully nonlinear attribution techniques to study interactions in the atmosphere
-- MLR sufficiently resolves the solar signal in MA
-- rigorous attribution avoiding potential aliasings =>  correct conclusions about coupling mechanisms
+- benefits and caveats of (non)linear attribution techniques to study interactions in the atmosphere
+- rigorous attribution avoiding potential aliasings => correct conclusions about coupling mechanisms
 - importance of GW perturbation outside of the surf zone for vortex preconditioning \[[Albers & Birner, 2014](http:
 //journals.ametsoc.org/doi/abs/10.1175/JAS-D-14-0026.1)\]
 - ?single **unifying** (top-down) mechanism acting across different timescales \[[Kidston et al, 2015](http://www.nature.com/doifinder/10.1038/ngeo2424)\]
