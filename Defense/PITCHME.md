@@ -18,7 +18,8 @@
 @ulend
 
 Notes:
-precist
+
+- precist
 
 
 ---?image=assets/gray2010_layers.png&transition=none&size=auto 90%
@@ -34,7 +35,8 @@ precist
 @ulend
 
 Notes:
-predstaveni struktury samotne prace
+
+- predstaveni struktury samotne prace
 
 
 ---?image=assets/motivation_fig1.png&transition=none&size=auto 90%
