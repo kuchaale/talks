@@ -26,10 +26,14 @@ Note:
 ---?image=assets/gray2010_topdown.png&transition=none&size=auto 90%
 ---?image=assets/gray2010.png&size=auto 90%
 
+Note:
+
+- stredni atmosfera (MA)
+
 +++
 ### Thesis targets
 @ul
-- (non)linear assessment of 11-yr SC in the middle atmosphere
+- (non)linear assessment of 11-yr SC in the middle atmosphere (MA)
 - aliasing of 11-yr SC in the tropical lower stratosphere (TLS)
 - role of parametrized oGWs 
 @ulend
