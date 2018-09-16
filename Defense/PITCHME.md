@@ -155,7 +155,7 @@ Note:
 
 
 +++
-#### RI of individual phenomena 
+#### Maximum RI of individual phenomena 
 ![maxRI](assets/max_rel_impact_SVR2.png)
 
 Note:
