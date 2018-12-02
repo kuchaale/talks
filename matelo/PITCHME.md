@@ -46,9 +46,15 @@ Note:
 ## Comparison with reanalyses
 
 
----?image=assets/tendency_comparison.png&size=70% auto
+---?image=assets/tendency_comparison.png&size=50% auto
 
 #### Climatological comparison - January
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 +++
 #### Temperature response@70hPa - Himalayas
 ![Image](assets/ta_response@70hPa_all.png)
