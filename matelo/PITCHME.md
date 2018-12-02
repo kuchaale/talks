@@ -45,11 +45,11 @@ Note:
 ---
 ## Comparison with reanalyses
 +++
-### Climatological comparison - January
+#### Climatological comparison - January
 ![Image](assets/tendency_comparison.png)
 +++
-### Temperature response@70hPa - Himalayas
-![Image](assets/ta_comparison@70hPa_all.png)
+#### Temperature response@70hPa - Himalayas
+![Image](assets/ta_response@70hPa_all.png)
 
 ---
 
@@ -63,7 +63,7 @@ Note:
 
 +++
 #### Dynamical effects: EP flux diagnostics
-![](assets/epfdiag_anomalies_all_20days_zm_4poster.pngEPFD+EPfluxes_anomalies_all_20days_zm_wEPFDsignificance_zoomin.png)
+![](assets/EPFD+EPfluxes_anomalies_all_20days_zm_wEPFDsignificance_zoomin.png)
 @snap[south-east]
 @size[large](`$\uparrow\ldots F_z$`)<br>
 @size[large](`$\rightarrow\ldots F_y$`)<br>
@@ -79,7 +79,7 @@ Note:
 
 +++
 ### Dynamical effects: residual circulation
-![](assets/epfdiag_anomalies_all_20days_zm_4poster.png)
+![](assets/vmro3+RC_percentages_all_20days_zm_wabsolutevaluesandsignificance.png)
 @snap[south-east]
 @size[large](`$\uparrow\ldots \bar{w}^{*} $`)<br>
 @size[large](`$\rightarrow\ldots \bar{v}^{*} $`)<br>
