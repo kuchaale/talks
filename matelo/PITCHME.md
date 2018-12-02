@@ -45,15 +45,20 @@ Note:
 ---
 ## Comparison with reanalyses
 +++
+
+--?image=assets/img/tendency_comparison.png&size=50% 100%
 #### Climatological comparison - January
-![Image](assets/tendency_comparison.png)
 +++
 #### Temperature response@70hPa - Himalayas
 ![Image](assets/ta_response@70hPa_all.png)
 
 ---
 
-### Results: OGWD within hotspot
+## Results: 
+
++++
+
+#### OGWD within hotspot
 
 ![Image](assets/accelogw_absolute_all_20days_profiles_alllags_wsignificance.png)
 @snap[south-east]
@@ -61,8 +66,11 @@ Note:
 @size[large](////`$\ldots$` p values of <0.01)
 @snapend
 
+---
+### Dynamical effects
+
 +++
-#### Dynamical effects: EP flux diagnostics
+#### EP flux diagnostics
 ![](assets/EPFD+EPfluxes_anomalies_all_20days_zm_wEPFDsignificance_zoomin.png)
 @snap[south-east]
 @size[large](`$\uparrow\ldots F_z$`)<br>
@@ -78,7 +86,7 @@ Note:
 - podobne rysy jako v pripade SSW
 
 +++
-### Dynamical effects: residual circulation
+#### Residual circulation
 ![](assets/vmro3+RC_percentages_all_20days_zm_wabsolutevaluesandsignificance.png)
 @snap[south-east]
 @size[large](`$\uparrow\ldots \bar{w}^{*} $`)<br>
