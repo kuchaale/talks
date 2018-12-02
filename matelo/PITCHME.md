@@ -46,7 +46,7 @@ Note:
 ## Comparison with reanalyses
 
 
----?image=assets/img/tendency_comparison.png&size=50%
+---?image=assets/tendency_comparison.png&size=50% 100%
 #### Climatological comparison - January
 +++
 #### Temperature response@70hPa - Himalayas
@@ -63,9 +63,7 @@ Note:
 ![Image](assets/accelogw_absolute_all_20days_profiles_alllags_wsignificance.png)
 @snap[south-east]
 @size[large](\\\\\\\\`$\ldots$` p values of <0.05)<br>
-@size[large](////`$\ldots$` p values of <0.01)<br>
-@size[large](shading `$\ldots$` OGWD anomalies)
-
+@size[large](////`$\ldots$` p values of <0.01)
 @snapend
 
 ---
