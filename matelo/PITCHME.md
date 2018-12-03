@@ -36,7 +36,7 @@ Note:
 
 @ul
 - comparison with reanalyses (MERRA2, JRA55)
-- bootstrapp calculation (10000 iterations)
+- bootstrapp calculation (10k samples)
 - manuscript finalisation, e.g. transfer of several figures to supplement
 - link between Nadja's similations or paper (under development)
 - sensitivity analysis: all events vs. DJF only (TBD)
