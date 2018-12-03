@@ -58,22 +58,22 @@ Note:
 <br>
 <br>
 <br>
-+++
+
+
+---?image=assets/ta_response@70hPa_all1.png&transition=none&size=auto 90%
+---?image=assets/ta_response@70hPa_all2.png&transition=none&size=auto 90%
+---?image=assets/ta_response@70hPa_all.png&transition=none&size=auto 90%
 #### Temperature response@70hPa - Himalayas
-@div[left-29]
-CMAM
-![Image](assets/ta_response@70hPa_CMAM.png)
-@divend
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-@div[center-29]
-MERRA2
-![Image](assets/ta_response@70hPa_MERRA2.png)
-@divend
-
-@div[right-29]
-JRA55
-![Image](assets/ta_response@70hPa_JRA55.png)
-@divend
 ---
 
 ## Results: 
