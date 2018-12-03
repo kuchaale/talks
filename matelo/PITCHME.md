@@ -60,17 +60,17 @@ Note:
 <br>
 +++
 #### Temperature response@70hPa - Himalayas
-@div[left-30]
+@div[left-29]
 CMAM
 ![Image](assets/ta_response@70hPa_CMAM.png)
 @divend
 
-@div[center-30]
+@div[center-29]
 MERRA2
 ![Image](assets/ta_response@70hPa_MERRA2.png)
 @divend
 
-@div[right-30]
+@div[right-29]
 JRA55
 ![Image](assets/ta_response@70hPa_JRA55.png)
 @divend
