@@ -89,7 +89,7 @@ Note:
 @snapend
 
 ---
-### Dynamical effects
+### Dynamical effects:
 
 +++
 #### EP flux diagnostics
@@ -108,7 +108,7 @@ Note:
 - podobne rysy jako v pripade SSW
 
 +++
-#### Residual circulation
+#### Residual circulation + ozone
 ![](assets/vmro3+RC_percentages_all_20days_zm_wabsolutevaluesandsignificance.png)
 @snap[south-east]
 @size[large](`$\uparrow\ldots \bar{w}^{*} $`)<br>
