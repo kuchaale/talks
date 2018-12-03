@@ -48,7 +48,7 @@ Note:
 
 ---?image=assets/tendency_comparison.png&size=50% auto
 
-#### GWD Climatological comparison@70hPa - January
+#### GWD Climatol. comparison@70hPa - January
 <br>
 <br>
 <br>
