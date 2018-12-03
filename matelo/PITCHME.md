@@ -97,7 +97,7 @@ Note:
 @snap[south-east]
 @size[large](`$\uparrow\ldots F_z$`)<br>
 @size[large](`$\rightarrow\ldots F_y$`)<br>
-@size[large](shading `$\ldots \nabla \cdot \vec{F}$`)<br>
+@size[large](shading `$\ldots \nabla \cdot \vec{F}$`, p values of <0.05)<br>
 @snapend
 
 Note:
