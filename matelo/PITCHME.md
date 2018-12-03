@@ -122,8 +122,8 @@ Note:
 
 * importance of discussion of localized dynamical effects
 * common features between Himalayas composite with SSW found
-* position of imposed drag by oGWs may be critical for nonlocal interaction with PWs (Samtleben et al, in prep.)
-    * @size[large](compensation mechanism suggested by [Cohen et al (2014)](https://journals.ametsoc.org/doi/abs/10.1175/JAS-D-14-0021.1))
+* position of imposed drag by oGWs may be critical for nonlocal interaction with PWs @size[large](\[Samtleben et al, in prep.\])
+    * compensation mechanism suggested by [Cohen et al (2014)](https://journals.ametsoc.org/doi/abs/10.1175/JAS-D-14-0021.1)
 
 ---
 
