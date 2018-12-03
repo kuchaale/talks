@@ -48,7 +48,7 @@ Note:
 
 ---?image=assets/tendency_comparison.png&size=50% auto
 
-#### Climatological comparison - January
+#### Climatological comparison@70hPa - January
 <br>
 <br>
 <br>
