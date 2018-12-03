@@ -2,6 +2,10 @@
   color: white;
 }
 
+.sidebar img {
+  width: 30%;
+}
+
 .reveal section img {
   border: 0;
   box-shadow: none;
