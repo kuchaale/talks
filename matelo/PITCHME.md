@@ -122,12 +122,12 @@ Note:
 
 * importance of discussion of localized dynamical effects
 * common features between Himalayas composite with SSW found
-    * warming and ozone enrichment in polar (lower) stratosphere
-    * weaker PV => enhanced upward propagation of PW 
-    * stronger wave-drive residual circulation
-    * Siberian-high strengthening (Cohen and Jones, 2011) associated with upward PW propagation
+    * @size[large](warming and ozone enrichment in polar (lower) stratosphere)
+    * @size[large](weaker PV => enhanced upward propagation of PW)
+    * @size[large](stronger wave-drive residual circulation)
+    * @size[large](Siberian-high strengthening (Cohen and Jones, 2011) associated with upward PW propagation)
 * position of imposed drag by oGWs may be critical for nonlocal interaction with PWs (Samtleben et al, in prep.)
-    * compensation mechanism suggested by [Cohen et al (2014)](https://journals.ametsoc.org/doi/abs/10.1175/JAS-D-14-0021.1)
+    * @size[large](compensation mechanism suggested by [Cohen et al (2014)](https://journals.ametsoc.org/doi/abs/10.1175/JAS-D-14-0021.1))
 
 ---
 
