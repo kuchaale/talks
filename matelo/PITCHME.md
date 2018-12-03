@@ -59,21 +59,23 @@ Note:
 <br>
 <br>
 +++
-#### Temperature response@70hPa - Himalayas
-@transition[none]
 
-@snap[east]
+@snap[north-west]
+#### Temperature response@70hPa - Himalayas
+@snapend
+
+@snap[east sidebar]
 CMAM
 ![Image](assets/ta_response@70hPa_CMAM.png)
 @snapend
 
 
-@snap[west]
+@snap[west sidebar]
 MERRA2
 ![Image](assets/ta_response@70hPa_MERRA2.png)
 @snapend
   
-@snap[midpoint]
+@snap[midpoint sidebar]
 JRA55
 ![Image](assets/ta_response@70hPa_JRA55.png)
 @snapend
