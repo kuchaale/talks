@@ -60,9 +60,9 @@ Note:
 <br>
 
 
----?image=assets/ta_response@70hPa_all1.png&transition=none&size=auto 90%
----?image=assets/ta_response@70hPa_all2.png&transition=none&size=auto 90%
----?image=assets/ta_response@70hPa_all.png&transition=none&size=auto 90%
+---?image=assets/ta_response@70hPa_all1.png&transition=none&size=70% auto
+---?image=assets/ta_response@70hPa_all2.png&transition=none&size=70% auto
+---?image=assets/ta_response@70hPa_all.png&transition=none&size=70% auto
 #### Temperature response@70hPa - Himalayas
 <br>
 <br>
